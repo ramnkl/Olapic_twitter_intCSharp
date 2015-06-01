@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harness", "Twitter\Harness.csproj", "{944CD58E-ECB7-43FA-A6F6-B962CDF96676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olapic.Lib", "OlapicInt\Olapic.Lib.csproj", "{7FE78713-6330-425F-967B-FF9A7CD25B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olapic.Web", "Olapic.Web\Olapic.Web.csproj", "{30383681-11B9-467B-B391-2ABF3C2A77B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944CD58E-ECB7-43FA-A6F6-B962CDF96676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944CD58E-ECB7-43FA-A6F6-B962CDF96676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944CD58E-ECB7-43FA-A6F6-B962CDF96676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944CD58E-ECB7-43FA-A6F6-B962CDF96676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE78713-6330-425F-967B-FF9A7CD25B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE78713-6330-425F-967B-FF9A7CD25B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE78713-6330-425F-967B-FF9A7CD25B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE78713-6330-425F-967B-FF9A7CD25B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30383681-11B9-467B-B391-2ABF3C2A77B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30383681-11B9-467B-B391-2ABF3C2A77B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30383681-11B9-467B-B391-2ABF3C2A77B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30383681-11B9-467B-B391-2ABF3C2A77B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

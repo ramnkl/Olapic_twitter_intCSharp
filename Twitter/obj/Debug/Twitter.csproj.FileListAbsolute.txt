@@ -1,0 +1,8 @@
+D:\Projects\Samples\twitter-master\Twitter\bin\Debug\Twitter.exe.config
+D:\Projects\Samples\twitter-master\Twitter\bin\Debug\Twitter.exe
+D:\Projects\Samples\twitter-master\Twitter\bin\Debug\Twitter.pdb
+D:\Projects\Samples\twitter-master\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+D:\Projects\Samples\twitter-master\Twitter\obj\Debug\Twitter.exe
+D:\Projects\Samples\twitter-master\Twitter\obj\Debug\Twitter.pdb
+D:\Projects\Samples\twitter-master\Twitter\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Samples\twitter-master\Twitter\bin\Debug\Newtonsoft.Json.xml

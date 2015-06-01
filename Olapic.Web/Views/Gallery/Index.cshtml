@@ -1,0 +1,28 @@
+﻿
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+}
+
+@using Olapic.Lib
+@model List<Medium>
+<h2>Index</h2>
+
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+             <div id="olapicGallery" class="gallery">
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<div id="modal-wrapper" style="display:none;">
+    <div id="modal-container">
+        <img class="modal-image" src="http://placehold.it/612x612" />
+        <ul class="product-list"></ul>
+    </div>
+</div>

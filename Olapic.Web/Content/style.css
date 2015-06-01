@@ -1,0 +1,97 @@
+input, body {
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.title {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.subtitle {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.subtitle a {
+	text-align: center;
+	margin-top: 20px;
+	text-decoration: underline;
+}
+
+.gallery {
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+.image {
+	height: 165px;
+	padding-right: 15px;
+	float: left;
+}
+
+.olaClick {
+	width: auto;
+	padding: 0;
+	border: none;
+}
+
+.olaClick:hover {
+	width: auto;
+	padding: 0;
+	background-color: #fff;
+	box-shadow: 5px 5px 5px #888888;
+	border: solid;
+	border-width: 1px;
+	border-color: #000;
+}
+
+.olaClick:active {
+	border: solid;
+	border-width: 2px;
+	border-color: #fff;
+}
+
+
+#modal-wrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.2);
+	z-index: 5;
+}
+
+#modal-container {
+	position: absolute;
+	top: 40px;
+	left: 50%;
+	margin: 0 0 0 -400px;
+	width: 800px;
+	height: auto;
+	background: #fff;
+	padding: 50px;
+}
+
+#modal-container img.modal-image {
+	float: left;
+	height: 400px;
+}
+
+#modal-container ul {
+	float: left;
+	padding: 0 0 0 20px;
+	list-style-type: none;
+}
+
+#modal-container ul li img {
+	float: left;
+	width: 120px;
+	height: 160px;
+}
+
+.product-info {
+	float: left;
+	width: 100px;
+}
